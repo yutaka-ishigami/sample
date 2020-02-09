@@ -62,7 +62,7 @@ img {
 .nav ul {
     margin: 0 0 0 0;
     padding: 20px 10px 15px 20px;
-    background-image: url(../menu-bg.png);
+    background-image: url(menu-bg.png);
     background-repeat: repeat-x;
 }
 .nav a:link {
@@ -84,7 +84,7 @@ img {
 
 /* すべてのページに適用　- フッター　-　*/
 .footer {
-    background-image: url(../footer-bg.png);
+    background-image: url(footer-bg.png);
     background-repeat: no-repeat;
     margin-top: 30px;
     padding: 80px 15px 20px 15px;
