@@ -170,12 +170,14 @@ input[type="submit"] {
     .wrapper {
         margin: 0 8px;
     }
+   /*
     .logo {
         margin: 3px 0;
     }
     .logo img {
         width: 200px;
     }
+    */
     .nav {
         background-color: #dfddda;
     }
